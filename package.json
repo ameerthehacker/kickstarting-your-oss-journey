@@ -4,7 +4,8 @@
   "description": "deck for my talk on `kickstarting your OSS journey`",
   "main": "slides.js",
   "scripts": {
-    "start": "mdx-deck ./deck.mdx"
+    "start": "mdx-deck ./deck.mdx",
+    "build": "mdx-deck build ./deck.mdx"
   },
   "repository": "https://github.com/ameerthehacker/kickstarting-your-oss-journey.git",
   "author": "ameerthehacker",
